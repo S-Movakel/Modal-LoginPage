@@ -11,7 +11,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)]()
 
 ## 👀 VIEW DEMO
-🖥️ Please click on the **LINK** below to view the demo.**
+🖥️ Please click on the **LINK** below to view the demo.*
 
 
 
