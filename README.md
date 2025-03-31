@@ -20,6 +20,7 @@
 ## 🚀 My PROJECT
 
 <p align="center">
+  <img src="https://github.com/s-movakel/Modal-LoginPage/raw/main/Home.png" alt="My Project" width="1200" />
   <img src="https://github.com/s-movakel/Modal-LoginPage/raw/main/signup.png" alt="My Project" width="1200" />
   <img src="https://github.com/s-movakel/Modal-LoginPage/raw/main/LoginPage.png" alt="My Project" width="1200" />
 </p>
