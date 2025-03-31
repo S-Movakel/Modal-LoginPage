@@ -1,4 +1,4 @@
-# Modal-LoginPage*
+# Modal-LoginPage
 **MODAL** project using **HTML** , **CSS** , **JavaScript**
 
 
