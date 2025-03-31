@@ -14,19 +14,14 @@
 🖥️ Please click on the **LINK** below to view the demo.
 
 
-[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=css)](https://s-movakel.github.io/Edu-Website-Tailwind)
+[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=js)](https://s-movakel.github.io/Modal-LoginPage)
 
 
 ## 🚀 My PROJECT
 
 <p align="center">
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview1.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview2.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview3.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview4.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview5.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview6.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/Preview7.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Modal-LoginPage/raw/main/signup.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Modal-LoginPage/raw/main/LoginPage.png" alt="My Project" width="1200" />
 </p>
 
 ## 📧 CONTACT ME:
